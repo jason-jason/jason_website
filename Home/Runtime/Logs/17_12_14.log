@@ -1,0 +1,140 @@
+[ 2017-12-14T10:07:04+08:00 ] 127.0.0.1 /2017/resume/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `re_resume` [ RunTime:0.022295s ]
+SQL: SELECT * FROM `re_resume`  [ RunTime:0.000506s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `re_about` [ RunTime:0.004882s ]
+SQL: SELECT * FROM `re_about`  [ RunTime:0.000837s ]
+NOTIC: [8] Use of undefined constant data1 - assumed 'data1' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `re_project` [ RunTime:0.004904s ]
+SQL: SELECT * FROM `re_project`  [ RunTime:0.000894s ]
+NOTIC: [8] Use of undefined constant data2 - assumed 'data2' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `re_contact` [ RunTime:0.004729s ]
+SQL: SELECT * FROM `re_contact`  [ RunTime:0.000746s ]
+NOTIC: [8] Use of undefined constant data3 - assumed 'data3' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `re_message` [ RunTime:0.004798s ]
+SQL: SELECT * FROM `re_message`  [ RunTime:0.000826s ]
+NOTIC: [8] Use of undefined constant data4 - assumed 'data4' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 23 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003921s ]
+INFO: [ view_template ] --END-- [ RunTime:0.004075s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.059356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059472s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001494s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001225s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001329s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005674s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001456s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2017-12-14T11:36:55+08:00 ] 127.0.0.1 /2017/resume/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+SQL: SHOW COLUMNS FROM `re_resume` [ RunTime:0.003357s ]
+SQL: SELECT * FROM `re_resume`  [ RunTime:0.000337s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `re_about` [ RunTime:0.002910s ]
+SQL: SELECT * FROM `re_about`  [ RunTime:0.000394s ]
+NOTIC: [8] Use of undefined constant data1 - assumed 'data1' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `re_project` [ RunTime:0.003165s ]
+SQL: SELECT * FROM `re_project`  [ RunTime:0.000392s ]
+NOTIC: [8] Use of undefined constant data2 - assumed 'data2' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `re_contact` [ RunTime:0.002983s ]
+SQL: SELECT * FROM `re_contact`  [ RunTime:0.000289s ]
+NOTIC: [8] Use of undefined constant data3 - assumed 'data3' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `re_message` [ RunTime:0.003274s ]
+SQL: SELECT * FROM `re_message`  [ RunTime:0.000365s ]
+NOTIC: [8] Use of undefined constant data4 - assumed 'data4' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 23 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002108s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002210s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.025939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026054s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001320s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001211s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001180s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005295s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001516s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001621s ]
+
+[ 2017-12-14T11:42:03+08:00 ] 127.0.0.1 /2017/resume/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+SQL: SHOW COLUMNS FROM `re_resume` [ RunTime:0.002719s ]
+SQL: SELECT * FROM `re_resume`  [ RunTime:0.000296s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `re_about` [ RunTime:0.002277s ]
+SQL: SELECT * FROM `re_about`  [ RunTime:0.000434s ]
+NOTIC: [8] Use of undefined constant data1 - assumed 'data1' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `re_project` [ RunTime:0.004049s ]
+SQL: SELECT * FROM `re_project`  [ RunTime:0.000709s ]
+NOTIC: [8] Use of undefined constant data2 - assumed 'data2' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `re_contact` [ RunTime:0.004055s ]
+SQL: SELECT * FROM `re_contact`  [ RunTime:0.000357s ]
+NOTIC: [8] Use of undefined constant data3 - assumed 'data3' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `re_message` [ RunTime:0.002442s ]
+SQL: SELECT * FROM `re_message`  [ RunTime:0.000374s ]
+NOTIC: [8] Use of undefined constant data4 - assumed 'data4' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 23 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002141s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002268s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.032716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032862s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001731s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001338s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001824s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007461s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001740s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001848s ]
+
+[ 2017-12-14T17:52:58+08:00 ] 127.0.0.1 /2017/resume/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+SQL: SHOW COLUMNS FROM `re_resume` [ RunTime:0.003712s ]
+SQL: SELECT * FROM `re_resume`  [ RunTime:0.000503s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `re_about` [ RunTime:0.003130s ]
+SQL: SELECT * FROM `re_about`  [ RunTime:0.000521s ]
+NOTIC: [8] Use of undefined constant data1 - assumed 'data1' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `re_project` [ RunTime:0.003335s ]
+SQL: SELECT * FROM `re_project`  [ RunTime:0.000499s ]
+NOTIC: [8] Use of undefined constant data2 - assumed 'data2' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `re_contact` [ RunTime:0.003060s ]
+SQL: SELECT * FROM `re_contact`  [ RunTime:0.000433s ]
+NOTIC: [8] Use of undefined constant data3 - assumed 'data3' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `re_message` [ RunTime:0.003234s ]
+SQL: SELECT * FROM `re_message`  [ RunTime:0.000511s ]
+NOTIC: [8] Use of undefined constant data4 - assumed 'data4' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 23 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001683s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001794s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.024932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025054s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000793s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000686s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000305s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002604s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000739s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000823s ]
+

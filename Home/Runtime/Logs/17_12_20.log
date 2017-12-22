@@ -1,0 +1,35 @@
+[ 2017-12-20T17:17:19+08:00 ] 127.0.0.1 /2017/resume/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+SQL: SHOW COLUMNS FROM `re_resume` [ RunTime:0.061343s ]
+SQL: SELECT * FROM `re_resume`  [ RunTime:0.000352s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `re_about` [ RunTime:0.026960s ]
+SQL: SELECT * FROM `re_about`  [ RunTime:0.000539s ]
+NOTIC: [8] Use of undefined constant data1 - assumed 'data1' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SHOW COLUMNS FROM `re_project` [ RunTime:0.031576s ]
+SQL: SELECT * FROM `re_project` ORDER BY rank DESC  [ RunTime:0.011452s ]
+NOTIC: [8] Use of undefined constant data2 - assumed 'data2' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `re_contact` [ RunTime:0.034594s ]
+SQL: SELECT * FROM `re_contact`  [ RunTime:0.000504s ]
+NOTIC: [8] Use of undefined constant data3 - assumed 'data3' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `re_message` [ RunTime:0.024986s ]
+SQL: SELECT * FROM `re_message`  [ RunTime:0.001253s ]
+NOTIC: [8] Use of undefined constant data4 - assumed 'data4' F:\AppServ\www\2017\resume\Home\Lib\Action\IndexAction.class.php 第 23 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002462s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002730s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.067588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067714s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001481s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001252s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001443s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005822s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001471s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001555s ]
+
